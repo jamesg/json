@@ -1,0 +1,5 @@
+bin/
+docs/
+objs/
+libjson.a
+.*.swp
